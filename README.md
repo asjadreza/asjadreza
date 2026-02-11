@@ -21,11 +21,11 @@
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
-`React.js` • `Next.js` • `TypeScript` • `JavaScript (ES6+)`  
+`React.js` • `Next.js` • `TypeScript` • `JavaScript (ES6+)` • `Vue.js`  
 `HTML5` • `CSS3` • `SCSS` • `Tailwind CSS` • `Material UI` • `Bootstrap`
 
 ### 🧠 State Management
-`Redux` • `Redux Toolkit` • `Context API` • `React Hooks`
+`Redux` • `Redux Toolkit` • `Context API` • `React Hooks` • `Pinia`
 
 ### 🔗 API & Data
 `REST APIs` • `GraphQL` • `Axios` • `JWT Auth`
@@ -35,35 +35,6 @@
 
 ### 🛠 Tools & Workflow
 `Git` • `GitHub` • `Docker` • `CI/CD` • `Vercel` • `ESLint` • `Prettier`
-
----
-
-## 🌟 Featured Projects
-
-### 🎵 BeatDrop – Music Streaming Platform
-> Full-stack music streaming app with real-time audio and secure authentication.
-
-- Built with **React, Node.js, PostgreSQL**
-- JWT authentication & cloud media handling
-- Optimized APIs for smooth streaming experience
-
----
-
-### 🛍 Silanyas – E-commerce Platform
-> UI enhancements and payment integration for a production e-commerce app.
-
-- Improved UI using **React + Redux**
-- Integrated **PhonePe payment gateway**
-- Focused on performance and responsive design
-
----
-
-### 🤖 AI Portfolio Chatbot
-> RAG-based chatbot that answers questions about my resume and projects.
-
-- Built using **Next.js + LangChain**
-- Real-time streaming responses
-- Vector search with FAISS
 
 ---
 
@@ -80,7 +51,7 @@
 ## 📫 Let's Connect
 
 - 🌐 Portfolio: **https://asjad-portfolio-dun.vercel.app/**
-- 💼 LinkedIn: *(Add your LinkedIn link here)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/md-asjad-reza-683203193/*
 - 💻 GitHub: *(You’re already here 😄)*
 - 📧 Email: **asjadreza64@gmail.com**
 
